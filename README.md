@@ -1,2 +1,2 @@
 # rpc-try
-A sample rpc 
+A sample rpc invoke.
